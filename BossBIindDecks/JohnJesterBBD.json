@@ -1,0 +1,22 @@
+{
+	"id": "JJBBD",
+	"name": "Boss Blind Decks",
+	"display_name": "Boss Blind Decks",
+	"author": [
+		"John J. Jester"
+	],
+	"description": "Adds 5 Challenging decks based on the final boss blinds!",
+	"icon":"icon.png",
+	"prefix": "jjbbd",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "7a2eb6",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0",
+	"dependencies": [
+		"Lovely (>=0.7)",
+		"Balatro (>=1.0.1o)"
+	],
+	"conflicts": [
+	]
+}
